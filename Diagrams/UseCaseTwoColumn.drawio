@@ -1,0 +1,320 @@
+<mxfile host="app.diagrams.net" modified="2024-04-22T00:18:05.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FEQ854JZAR3DSYvvU6cB" version="24.2.7" type="device">
+  <diagram name="Page-1" id="nDsXDKETZ47utrhWjUKa">
+    <mxGraphModel dx="4632" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-1" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2066" y="261" width="487" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-1" vertex="1">
+          <mxGeometry width="487" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-3" value="User action" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-2" vertex="1">
+          <mxGeometry width="243" height="29" as="geometry">
+            <mxRectangle width="243" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-4" value="System response" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-2" vertex="1">
+          <mxGeometry x="243" width="244" height="29" as="geometry">
+            <mxRectangle width="244" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-1" vertex="1">
+          <mxGeometry y="29" width="487" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-6" value="1. Launch application" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-5" vertex="1">
+          <mxGeometry width="243" height="65" as="geometry">
+            <mxRectangle width="243" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-7" value="2. Display start screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-5" vertex="1">
+          <mxGeometry x="243" width="244" height="65" as="geometry">
+            <mxRectangle width="244" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-8" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-1" vertex="1">
+          <mxGeometry y="94" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-9" value="3. Select &quot;Start&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-8" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-10" value="4. Display schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-8" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-1" vertex="1">
+          <mxGeometry y="161" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-12" value="5. Select &quot;Add Assignment&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-11" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-13" value="6. Display add assignment screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-11" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-14" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-1" vertex="1">
+          <mxGeometry y="228" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-15" value="7. Submit assignment name, due date, and estimated duration" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-14" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-16" value="8. Automatically add assignment to schedule. Display the schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-14" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-35" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2075.5" y="651.5" width="487" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-36" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-35" vertex="1">
+          <mxGeometry width="487" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-37" value="User action" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-36" vertex="1">
+          <mxGeometry width="243" height="29" as="geometry">
+            <mxRectangle width="243" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-38" value="System response" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-36" vertex="1">
+          <mxGeometry x="243" width="244" height="29" as="geometry">
+            <mxRectangle width="244" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-35" vertex="1">
+          <mxGeometry y="29" width="487" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-40" value="1. Launch application" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-39" vertex="1">
+          <mxGeometry width="243" height="65" as="geometry">
+            <mxRectangle width="243" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-41" value="2. Display start screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-39" vertex="1">
+          <mxGeometry x="243" width="244" height="65" as="geometry">
+            <mxRectangle width="244" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-35" vertex="1">
+          <mxGeometry y="94" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-43" value="3. Select &quot;Start&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-42" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-44" value="4. Display schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-42" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-45" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-35" vertex="1">
+          <mxGeometry y="161" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-46" value="5. Select &quot;Add Workblock&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-45" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-47" value="6. Display add workblock screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-45" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-35" vertex="1">
+          <mxGeometry y="228" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-49" value="7. Submit workblock name, date, and start/end times" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-48" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-50" value="8. Add workblock to schedule. Display the schedule screen." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-48" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-51" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1531" y="227.5" width="487" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry width="487" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-53" value="User action" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-52" vertex="1">
+          <mxGeometry width="243" height="29" as="geometry">
+            <mxRectangle width="243" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-54" value="System response" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-52" vertex="1">
+          <mxGeometry x="243" width="244" height="29" as="geometry">
+            <mxRectangle width="244" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-55" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry y="29" width="487" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-56" value="1. Launch application" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-55" vertex="1">
+          <mxGeometry width="243" height="65" as="geometry">
+            <mxRectangle width="243" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-57" value="2. Display start screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-55" vertex="1">
+          <mxGeometry x="243" width="244" height="65" as="geometry">
+            <mxRectangle width="244" height="65" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-58" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry y="94" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-59" value="3. Select &quot;Start&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-58" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-60" value="4. Display schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-58" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-61" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry y="161" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-62" value="5. Select &quot;Add Assignment&quot; or &quot;Add Workblock&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-61" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-63" value="6. Display add assignment/workblock screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-61" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-64" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry y="228" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-65" value="7a. Submit incomplete information or past due date" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-64" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-66" value="8a. Display error message to fix information" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-64" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-67" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="G3RRJx4OzM5srWaAOaPk-51" vertex="1">
+          <mxGeometry y="295" width="487" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-68" value="9a. Fix assignment information and click &quot;Submit&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-67" vertex="1">
+          <mxGeometry width="243" height="67" as="geometry">
+            <mxRectangle width="243" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3RRJx4OzM5srWaAOaPk-69" value="10a. Automatically add assignment to schedule. Display the schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="G3RRJx4OzM5srWaAOaPk-67" vertex="1">
+          <mxGeometry x="243" width="244" height="67" as="geometry">
+            <mxRectangle width="244" height="67" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-1" value="&lt;p style=&quot;margin: 12px 0px; color: rgb(45, 59, 69); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Name: Workload Scheduler Application&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px; color: rgb(45, 59, 69); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Actors: User&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px; color: rgb(45, 59, 69); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Goal: Output a scheduler that &lt;br/&gt;automatically fills in based on available time and work time&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px; color: rgb(45, 59, 69); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Precondition: User must input assignment/workblock information&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2064" y="113" width="464" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-2" value="If user submit incomplete information or is past deadline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1462" y="195" width="315" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-25" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1523" y="651.5" width="471" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry width="471" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-27" value="User action" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-26">
+          <mxGeometry width="235" height="26" as="geometry">
+            <mxRectangle width="235" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-28" value="System response" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-26">
+          <mxGeometry x="235" width="236" height="26" as="geometry">
+            <mxRectangle width="236" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-29" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry y="26" width="471" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-30" value="1. Launch application" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-29">
+          <mxGeometry width="235" height="58" as="geometry">
+            <mxRectangle width="235" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-31" value="2. Display start screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-29">
+          <mxGeometry x="235" width="236" height="58" as="geometry">
+            <mxRectangle width="236" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-32" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry y="84" width="471" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-33" value="3. Select &quot;Start&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-32">
+          <mxGeometry width="235" height="60" as="geometry">
+            <mxRectangle width="235" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-34" value="4. Display schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-32">
+          <mxGeometry x="235" width="236" height="60" as="geometry">
+            <mxRectangle width="236" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry y="144" width="471" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-36" value="5. Select &quot;Add Assignment&quot; or &quot;Add Workblock&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-35">
+          <mxGeometry width="235" height="60" as="geometry">
+            <mxRectangle width="235" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-37" value="6. Display add assignment/workblock screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-35">
+          <mxGeometry x="235" width="236" height="60" as="geometry">
+            <mxRectangle width="236" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry y="204" width="471" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-39" value="7. Submit assignment/workblock information" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-38">
+          <mxGeometry width="235" height="60" as="geometry">
+            <mxRectangle width="235" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-40" value="8. Automatically add assignment/workblock to schedule. Display the schedule screen." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-38">
+          <mxGeometry x="235" width="236" height="60" as="geometry">
+            <mxRectangle width="236" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-25">
+          <mxGeometry y="264" width="471" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-42" value="9b. Select &quot;Edit/Delete Assignment&quot; or &quot;Edit/Delete Workblock&quot;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-41">
+          <mxGeometry width="235" height="60" as="geometry">
+            <mxRectangle width="235" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-43" value="10b. Select an existing assignment/workbloc and select &quot;Edit&quot; or &quot;Delete&quot;. Update and display schedule screen" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="CmU6z1BccG27hHJ-r5qS-41">
+          <mxGeometry x="235" width="236" height="60" as="geometry">
+            <mxRectangle width="236" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="-1523" y="991" width="471" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmU6z1BccG27hHJ-r5qS-49" value="If user needs to edit/delete assignment or workblock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1442" y="619" width="295" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
